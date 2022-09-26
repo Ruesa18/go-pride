@@ -14,6 +14,8 @@ The `FlagColors` attribute describes what colors will be used on each line of th
 
 ![image](https://github.com/gookit/color/raw/master/_examples/images/color-256.png)
 
+You may use some of the example configurations. You can find them in the `examples/` directory of this project.
+
 ## Credits
 I have been inspired by [this repository](https://github.com/ExperiBass/cli-pride-flags) of [ExperiBass](https://github.com/ExperiBass).
 It's a good solution, but I wanted to be able to scale it and also use it as my terminal welcome screen (bashrc). 
