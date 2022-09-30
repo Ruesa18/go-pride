@@ -4,7 +4,7 @@
 The go-pride project introduces a new command for your terminals. It's basically a go program that allows you to show your pride flag! 🏳️‍🌈😃
 
 ## Installation
-You can use `go install pride.go` to build and install this program directly into your Go working directory. In order to be able to run commands installed like this you will have to add the Go working directory to your path variable.
+You can use `go install pride.go` to build and install this program directly into your Go working directory. In order to be able to run commands installed like this, you will have to add the Go working directory to your path variable.
 After the installation you can use the command `pride` from inside your favorite terminal.
 
 ## Configuration
