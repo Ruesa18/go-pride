@@ -16,6 +16,11 @@ The `FlagColors` attribute describes what colors will be used on each line of th
 
 You may use some of the example configurations. You can find them in the `examples/` directory of this project.
 
+## Contributing
+I would like to implement the go code by myself. But what you may contribute are the configurations for different flags (can be found under `examples/`). Please create a json-file with the name of your sexuality and choose the same name as the branch name for your feature.
+
+Of course you may also create new issues with requests for features. Please use the `wishlist` label for your requests.
+
 ## Credits
 I have been inspired by [this repository](https://github.com/ExperiBass/cli-pride-flags) of [ExperiBass](https://github.com/ExperiBass).
 It's a good solution, but I wanted to be able to scale it and also use it as my terminal welcome screen (bashrc). 
